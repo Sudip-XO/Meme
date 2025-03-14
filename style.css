@@ -1,0 +1,90 @@
+*{
+    margin:Øpx;
+    padding : epx;
+    box-sizing: border-box;
+    font-family: sans- serif;
+}
+.boom {
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+    justify-content: center;
+    text-align: center;
+    font-weight: 800;
+}
+
+.shop {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+
+.box {
+    height: 300px;
+    border: 2px solid black;
+    width: 19%;
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.box1-img {
+    height: 250px;
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.meme {
+    justify-content: center;
+    text-align: center;
+}
+
+/* .me {
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    height: 200px;
+    align-items: center;
+    margin-right: 10px;
+} */
+
+.meall {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    height: 350px;
+}
+
+.me {
+    /* background-size: contain; */
+    height: 350px;
+    width: 400px;
+    object-fit: cover;
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    background-size: cover;
+}
+
+    .mell2 {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 10px;
+        height: 700px;
+    }
+
+    .me2 {
+        background-size: contain;
+        height: 400px;
+        width: 400px; 
+        background-repeat: no-repeat;
+        margin-left: 50px;
+    }
+    
+    .me3 {
+        background-size: contain;
+        height: 400px;
+        width: 400px; 
+        background-repeat: no-repeat;
+    }
